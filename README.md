@@ -3,6 +3,7 @@
 ## Projem için fikir:
 > İklim değişikliği hakkında bilgi veren ve DIY projeleri paylaşmak için bir sosyal platform
 
-##Projemin türü:
+
+## Projemin türü:
 > web projesi
 
