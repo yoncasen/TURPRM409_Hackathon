@@ -1,7 +1,5 @@
 # TURPRM409_Hackathon
 
-## Yonca
+## Projem için fikir:
+> İklim değişikliği hakkında bilgi veren ve DIY projeleri paylaşmak için bir sosyal platform
 
-### Şen
-
-dfhgdfggkjdkfhgkdjfkjgdfh
